@@ -1,91 +1,96 @@
-  <div align="center">
-  <h1>Hi, I'm Mohit Sakhwal 👋</h1>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Associate+Data+Scientist;Machine+Learning+Engineer;Finance+%E2%86%92+Artificial+Intelligence" alt="Typing SVG" /></a>
-  <br/>
+ <h1 align="center">Hi, I'm Mohit Sakhwal </h1>
 
-  <a href="https://linkedin.com/in/mohit-sakhwal-a830501b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohitsakhwal990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+<p align="center">
+  <b>ML Engineer & Data Engineer</b> · Finance Background · End-to-End Pipeline Builder
+</p>
 
-<br/>
-
-Welcome to my digital workspace! I am an Associate Data Scientist who transitioned from a finance background into the world of AI and machine learning. I thrive on extracting signal from noise—whether that means engineering a SQL pipeline, tuning a predictive model, or exploring new workflows to accelerate development. 
-
-Outside of the IDE, I am an active portrait artist. That same focus on fine details, shading, and structure heavily influences how I clean data, architect models, and design intuitive visualizations.
+<p align="center">
+  <a href="mailto:mohitsakhwal990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohitsakhwal24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohitSakhwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitSakhwal&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0" alt="Mohit's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitSakhwal&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&ring=3670A0" alt="Mohit's GitHub Streak" height="150"/>
-</div>
+Data Scientist & ML Engineer with a Finance background and hands-on experience building **end-to-end ML pipelines** for fraud detection, churn prediction, and NLP text summarization. I bridge the gap between raw data and production-ready models — from SQL-driven ETL pipelines to Streamlit + FastAPI deployments.
 
----
-
-### 🛠️ Technical Arsenal
-
-**Languages & Core Libraries** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Machine Learning & AI** ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%2312213F.svg?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Data Engineering & Deployment** ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- 🎓 BBA Finance — DAVV, Indore
+- 💼 6-month Data Science Internship @ **NexGen Analytix**
+- 🏆 IBM ML with Python Certified · Ethans Tech Advanced Data Science Certified
+- 📍 Based in India
 
 ---
 
-### 🚀 Highlighted Projects
+## 🛠️ Tech Stack
 
-*Click on any project below to see how I approached the problem and the tools I used to solve it.*
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
 
-<details>
-<summary><b>🚨 Catching Financial Anomalies: Credit Card Fraud Detection</b></summary>
-<br>
-<blockquote>
-<i>"How do we find a needle in a haystack of 284,000+ transactions when the data is heavily skewed?"</i>
-</blockquote>
+### Data Engineering
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-**The Approach:** I tackled severe class imbalance using SMOTE and engineered custom features like transaction velocity and rolling averages. I built an anomaly detection engine using Random Forest and Isolation Forest to catch fraudulent patterns effectively.
-
-* **The Impact:** Achieved a Precision-Recall AUC of 0.95.
-* **The Product:** Wrapped the model in a live Streamlit web app that scores transactions in real-time and outputs a dynamic confusion matrix.
-
-🔗 `[Insert Link to Repository Here]`
-</details>
-
-<details>
-<summary><b>📉 Saving the User Base: Telecom Customer Churn Prediction</b></summary>
-<br>
-<blockquote>
-<i>"Can we predict which customers are going to leave before they actually cancel their service?"</i>
-</blockquote>
-
-**The Approach:** I developed an end-to-end predictive pipeline. By focusing heavily on feature engineering—specifically calculating Recency, Frequency, Monetary (RFM) metrics and analyzing tenure—I was able to give the XGBoost algorithm the context it needed to spot at-risk users.
-
-* **The Impact:** Slashed false negative predictions by ~30% with an overall accuracy of 87%.
-* **The Product:** A comprehensive Power BI dashboard that business stakeholders can use to track the Customer Lifetime Value (CLV) currently at risk.
-
-🔗 `[Insert Link to Repository Here]`
-</details>
-
-<details>
-<summary><b>📰 Cutting the Noise: NLP News Summarization Microservice</b></summary>
-<br>
-<blockquote>
-<i>"How can we quickly extract the core facts from 10,000+ lengthy news articles?"</i>
-</blockquote>
-
-**The Approach:** I built a dual-pipeline tool utilizing TF-IDF for extractive summarization and HuggingFace Transformers for abstractive summarization. This allows the system to not just pull out important sentences, but actually rewrite concepts concisely.
-
-* **The Impact:** Consistently reduced document length by 65% while maintaining critical context (verified via ROUGE scoring).
-* **The Product:** Deployed as an on-demand FastAPI microservice so non-technical teams can generate summaries via API calls.
-
-🔗 `[Insert Link to Repository Here]`
-</details>
+### Deployment & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<div align="center">
-  <i>"Always building, always learning. Currently experimenting with live APIs for a Real-Time Air Quality & Health Risk Predictor."</i>
-</div>
+## 📌 Featured Projects
+
+### 🔍 Credit Card Fraud Detection
+> **Data Engineering + ML**
+
+- Fraud detection pipeline on **284K+ transactions** using Random Forest & Isolation Forest — **Precision-Recall AUC: 0.95**
+- Engineered velocity, rolling averages, and merchant frequency features
+- Real-time transaction scoring via **Streamlit app** with live confusion matrix + Power BI export
+
+---
+
+### 📉 Customer Churn Prediction
+> **End-to-End ML Pipeline**
+
+- XGBoost + Logistic Regression on telecom data — **87%+ accuracy**
+- RFM, tenure & usage-based feature engineering; tackled class imbalance with **SMOTE** → ~30% fewer false negatives
+- Power BI dashboard tracking churn probability, high-risk customers & CLV at risk
+
+---
+
+### 📰 NLP News Summarization Tool
+> **NLP + API Microservice**
+
+- Extractive + abstractive pipeline using **TF-IDF + HuggingFace Transformers** on 10K+ news articles
+- Reduced document length by **~65%** while retaining key info; evaluated with **ROUGE-1/2/L**
+- Packaged as a **FastAPI microservice** with Streamlit front-end for non-technical users
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitSakhwal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSakhwal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Advanced Data Science & Analytics Professional Certificate** — Ethans Tech, Pune (2026)
+- 🏅 **Machine Learning with Python** — IBM Developer Skills Network (2025)
+
+---
+
+<p align="center">
+  <i>Open to ML Engineer & Data Engineer roles. Let's connect!</i><br/>
+  <a href="mailto:mohitsakhwal990@gmail.com">mohitsakhwal990@gmail.com</a> · 📞 +91-9516783124
+</p>
